@@ -1,0 +1,1 @@
+{"version":3,"file":"bundle.js","mappings":"mBACAA,QAAQC,IAAI,O","sources":["webpack://keboard/./src/js/index.js"],"sourcesContent":["import \"../css/style.css\"\r\nconsole.log(\"hi\")"],"names":["console","log"],"sourceRoot":""}
